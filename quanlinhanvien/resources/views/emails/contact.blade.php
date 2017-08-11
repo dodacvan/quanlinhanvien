@@ -1,0 +1,1 @@
+username is {{ $username }} and password is {{ $password }}

@@ -1,0 +1,1 @@
+@include('vanview.hello',['content'=>'bye'])
